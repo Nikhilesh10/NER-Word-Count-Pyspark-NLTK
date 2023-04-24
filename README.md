@@ -1,1 +1,1 @@
-# NER-word-count-pyspark-nltk
+Word Count of Named Entities using NLTK library in Pyspark
